@@ -1,0 +1,6 @@
+,Montage,PlayRate,CanMove,FixedCamera
+1,AnimMontage'/Game/AssetMove/Hammer/Hammer_AirCombo_1.Hammer_AirCombo_1',1.2,FALSE,FALSE
+2,AnimMontage'/Game/AssetMove/Hammer/Hammer_AirCombo_2.Hammer_AirCombo_2',1.2,FALSE,FALSE
+3,AnimMontage'/Game/AssetMove/Hammer/Hammer_AirCombo_3.Hammer_AirCombo_3',1.2,FALSE,FALSE
+4,AnimMontage'/Game/AssetMove/Hammer/Hammer_AirCombo_4.Hammer_AirCombo_4',1.2,FALSE,FALSE
+5,AnimMontage'/Game/AssetMove/Hammer/Hammer_AirCombo_5.Hammer_AirCombo_5',1.2,FALSE,FALSE

@@ -1,0 +1,5 @@
+,Damage,Montage,PlayRate,CanMove,LaunchX,LaunchZ,HitStop,Sound,ShakeClass,Effect,EffectLocation,EffectScale,Upper
+1,5,AnimMontage'/Game/AssetMove/AirCombo_Bound.AirCombo_Bound',1.5,FALSE,-500,0,0.05,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+2,5,AnimMontage'/Game/AssetMove/AirCombo_Bound.AirCombo_Bound',1.5,FALSE,-300,0,0.05,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+3,5,AnimMontage'/Game/AssetMove/AirCombo_Bound.AirCombo_Bound',1.5,FALSE,-50,0,0.05,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+4,5,AnimMontage'/Game/AssetMove/AirCombo_Bound.AirCombo_Bound',1.5,FALSE,-800,-2000,0.05,,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",FALSE

@@ -1,0 +1,6 @@
+,Damage,Montage,PlayRate,CanMove,Launch,HitStop,Sound,ShakeClass,Effect,EffectLocation,EffectScale,Down
+1,5,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1,FALSE,-700,0.05,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_Hit1.P_Hit1',"(X=0,Y=0,Z=30)","(X=0.3,Y=0.3,Z=0.3)",FALSE
+2,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1,FALSE,-1000,0.075,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_Hit1.P_Hit1',"(X=0,Y=0,Z=30)","(X=0.3,Y=0.3,Z=0.3)",FALSE
+3,15,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1,FALSE,-1000,0.1,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_Hit1.P_Hit1',"(X=0,Y=0,Z=30)","(X=0.3,Y=0.3,Z=0.3)",FALSE
+4,15,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1,FALSE,-400,0.1,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_Hit1.P_Hit1',"(X=0,Y=0,Z=30)","(X=0.3,Y=0.3,Z=0.3)",FALSE
+5,15,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1,FALSE,-100,0.1,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_Hit1.P_Hit1',"(X=0,Y=0,Z=30)","(X=0.3,Y=0.3,Z=0.3)",FALSE

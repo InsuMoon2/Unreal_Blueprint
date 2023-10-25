@@ -1,0 +1,11 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp,SkillCost
+1,AnimMontage'/Game/AssetMove/Dagger/Skill/Dagger_Skill1_Throw_Dagger2.Dagger_Skill1_Throw_Dagger2',1,FALSE,FALSE,TRUE,5
+2,AnimMontage'/Game/AssetMove/Dagger/Skill/Dagger_Skill2_TP.Dagger_Skill2_TP',1.1,FALSE,FALSE,TRUE,10
+3,AnimMontage'/Game/AssetMove/Dagger/Skill/Dagger_Skill3_Avoid.Dagger_Skill3_Avoid',1.5,FALSE,FALSE,TRUE,15
+4,AnimMontage'/Game/AssetMove/Dagger/Skill/Dagger_Skill4.Dagger_Skill4',1.5,TRUE,FALSE,FALSE,20
+5,AnimMontage'/Game/AssetMove/Dagger/Skill/S_Attack_Start_Montage.S_Attack_Start_Montage',1.5,FALSE,FALSE,TRUE,25
+6,,,,,TRUE,0
+7,,,,,TRUE,0
+8,,,,,TRUE,0
+9,,,,,TRUE,0
+10,AnimMontage'/Game/AssetMove/Dagger/Skill/Dagger_SubAction_Ground_Spin.Dagger_SubAction_Ground_Spin',1.5,FALSE,FALSE,TRUE,10

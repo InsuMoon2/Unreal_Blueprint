@@ -1,0 +1,6 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp,SkillCost
+1,AnimMontage'/Game/AssetMove/Sword/Skill/Sword_Skill1.Sword_Skill1',1.3,FALSE,FALSE,TRUE,5
+2,AnimMontage'/Game/AssetMove/Sword/Skill/Sword_Skill2_1.Sword_Skill2_1',1,FALSE,FALSE,TRUE,10
+3,AnimMontage'/Game/AssetMove/Sword/Skill/Sword_Skill3.Sword_Skill3',1.5,FALSE,FALSE,TRUE,15
+4,AnimMontage'/Game/AssetMove/Sword/Skill/Sword_Skill4_Combo.Sword_Skill4_Combo',1,FALSE,FALSE,TRUE,20
+5,AnimMontage'/Game/AssetMove/Sword/Skill/Sword_Skill5_DashAttack.Sword_Skill5_DashAttack',1,FALSE,FALSE,TRUE,25

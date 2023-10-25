@@ -1,0 +1,5 @@
+,Montage,PlayRate,CanMove,FixedCamera
+1,AnimMontage'/Game/AssetMove/Sword/AirCombo/Montage/Air_Attack02_Z1_Montage.Air_Attack02_Z1_Montage',1.7,FALSE,FALSE
+2,AnimMontage'/Game/AssetMove/Sword/AirCombo/Montage/Air_Attack03_Z1_Montage.Air_Attack03_Z1_Montage',1.7,FALSE,FALSE
+3,AnimMontage'/Game/AssetMove/Sword/AirCombo/Montage/Air_Attack04_Z0_Montage.Air_Attack04_Z0_Montage',1.7,FALSE,FALSE
+4,AnimMontage'/Game/AssetMove/Sword/AirCombo/Montage/Air_Down_Attack_Z1_Montage.Air_Down_Attack_Z1_Montage',1.9,FALSE,FALSE

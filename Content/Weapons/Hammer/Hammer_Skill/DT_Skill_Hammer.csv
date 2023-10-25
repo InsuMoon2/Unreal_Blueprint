@@ -1,0 +1,6 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp,SkillCost
+1,AnimMontage'/Game/AssetMove/Hammer/Hammer_Skill/Earth_Eater_start_Montage.Earth_Eater_start_Montage',1,FALSE,FALSE,TRUE,5
+2,AnimMontage'/Game/AssetMove/Hammer/Hammer_Skill/SizeMix_Montage.SizeMix_Montage',1.1,FALSE,FALSE,TRUE,10
+3,AnimMontage'/Game/AssetMove/Hammer/Hammer_Skill/Rolling_Montage.Rolling_Montage',1,FALSE,FALSE,TRUE,15
+4,AnimMontage'/Game/AssetMove/Hammer/Hammer_Skill/BigBang_Start2_Montage.BigBang_Start2_Montage',1,TRUE,FALSE,TRUE,20
+5,AnimMontage'/Game/AssetMove/Hammer/Hammer_Skill/Dash_Montage.Dash_Montage',1,FALSE,FALSE,TRUE,25

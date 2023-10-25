@@ -1,0 +1,6 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp
+1,AnimMontage'/Game/AssetMove/Sword/Attack2/Attack1.Attack1',1,FALSE,FALSE,TRUE
+2,AnimMontage'/Game/AssetMove/Sword/Attack2/Attack2.Attack2',1,FALSE,FALSE,TRUE
+3,AnimMontage'/Game/AssetMove/Sword/Attack2/Attack3.Attack3',1,FALSE,FALSE,TRUE
+4,AnimMontage'/Game/AssetMove/Sword/Attack2/Attack4.Attack4',1,FALSE,FALSE,TRUE
+5,AnimMontage'/Game/AssetMove/Sword/Attack2/Attack6.Attack6',1,FALSE,FALSE,TRUE

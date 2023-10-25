@@ -1,0 +1,6 @@
+,Damage,Montage,PlayRate,CanMove,LaunchXYZ,HitStop,Sound,ShakeClass,Effect,EffectLocation,EffectScale,Skill
+1,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=500,Y=500,Z=0)",0.05,,,ParticleSystem'/Game/Assets/Cruel_Sword_Finisher/Particles/P_Hit.P_Hit',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+2,30,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=500,Y=500,Z=0)",0.05,,,ParticleSystem'/Game/Assets/Cruel_Sword_Finisher/Particles/P_Hit.P_Hit',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+3,200,AnimMontage'/Game/AssetMove/Skill_Bound.Skill_Bound',1.5,FALSE,"(X=1500,Y=1500,Z=0)",0.05,,,ParticleSystem'/Game/Assets/Cruel_Sword_Finisher/Particles/P_Hit.P_Hit',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+4,200,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=200,Y=200,Z=0)",0.05,,,ParticleSystem'/Game/Assets/Cruel_Sword_Finisher/Particles/P_Hit.P_Hit',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE
+5,200,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=200,Y=200,Z=0)",0.05,,,ParticleSystem'/Game/Assets/Cruel_Sword_Finisher/Particles/P_Hit.P_Hit',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",TRUE

@@ -1,0 +1,6 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp
+1,AnimMontage'/Game/AssetMove/Hammer/Hammer_Combo/Anim_Combo01_01_Montage.Anim_Combo01_01_Montage',1.5,FALSE,FALSE,TRUE
+2,AnimMontage'/Game/AssetMove/Hammer/Hammer_Combo/Anim_Combo01_02_Montage.Anim_Combo01_02_Montage',1.5,FALSE,FALSE,TRUE
+3,AnimMontage'/Game/AssetMove/Hammer/Hammer_Combo/Anim_Combo01_03_Montage.Anim_Combo01_03_Montage',1.5,FALSE,FALSE,TRUE
+4,AnimMontage'/Game/AssetMove/Hammer/Hammer_Combo/Anim_Combo01_04_Montage.Anim_Combo01_04_Montage',1.5,FALSE,FALSE,TRUE
+5,AnimMontage'/Game/AssetMove/Hammer/Hammer_Combo/Anim_Combo01_05_Montage.Anim_Combo01_05_Montage',1.5,FALSE,FALSE,TRUE

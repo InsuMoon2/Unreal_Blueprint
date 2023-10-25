@@ -1,0 +1,11 @@
+,Damage,Montage,PlayRate,CanMove,LaunchXYZ,HitStop,Sound,ShakeClass,Effect,EffectLocation,EffectScale,Skill
+1,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=100,Y=100,Z=0)",0.03,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_ky_blood01.P_ky_blood01',"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+2,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=100,Y=100,Z=0)",0.075,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_ky_blood01.P_ky_blood01',"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+3,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=200,Y=200,Z=0)",,,,,"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+4,10,AnimMontage'/Game/AssetMove/Skill_Bound.Skill_Bound',1.5,FALSE,"(X=0,Y=0,Z=0)",0.03,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_ky_blood01.P_ky_blood01',"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+5,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=100,Y=100,Z=0)",0.03,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_ky_blood01.P_ky_blood01',"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+6,,,,,"(X=100,Y=100,Z=0)",,,,,"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+7,,,,,"(X=100,Y=100,Z=0)",,,,,"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+8,,,,,"(X=100,Y=100,Z=0)",,,,,"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+9,,,,,"(X=100,Y=100,Z=0)",,,,,"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
+10,20,AnimMontage'/Game/Character/Montages/Common/HitReaction_Stop_Montage.HitReaction_Stop_Montage',1.5,FALSE,"(X=100,Y=100,Z=0)",0.03,,,ParticleSystem'/Game/AdvancedMagic/AdvancedMagicFX08/Particles/P_ky_blood01.P_ky_blood01',"(X=0,Y=0,Z=0)","(X=0.3,Y=0.3,Z=0.3)",TRUE
