@@ -1,0 +1,5 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp
+1,AnimMontage'/Game/Sion/Animation/Sion_Attack1.Sion_Attack1',1,FALSE,FALSE,TRUE
+2,AnimMontage'/Game/Sion/Animation/Sion_Attack2.Sion_Attack2',1,FALSE,FALSE,TRUE
+3,AnimMontage'/Game/Sion/Animation/Sion_Attack3.Sion_Attack3',1,FALSE,FALSE,TRUE
+4,AnimMontage'/Game/Sion/Animation/Sion_Attack4.Sion_Attack4',1,FALSE,FALSE,TRUE

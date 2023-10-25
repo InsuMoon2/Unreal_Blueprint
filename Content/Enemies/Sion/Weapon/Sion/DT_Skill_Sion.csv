@@ -1,0 +1,6 @@
+,Montage,PlayRate,CanMove,FixedCamera,Interp,SkillCost
+1,AnimMontage'/Game/Enemies/Sion/Animation/Sion_Skill1.Sion_Skill1',1,FALSE,FALSE,FALSE,0
+2,AnimMontage'/Game/Enemies/Sion/Animation/Sion_Skill2.Sion_Skill2',1.1,FALSE,FALSE,FALSE,0
+3,AnimMontage'/Game/Enemies/Sion/Animation/Sion_Skill3.Sion_Skill3',1,FALSE,FALSE,FALSE,0
+4,AnimMontage'/Game/Enemies/Sion/Animation/Sion_Skill4.Sion_Skill4',1,FALSE,FALSE,FALSE,0
+5,AnimMontage'/Game/Enemies/Sion/Animation/Sion_Skill5.Sion_Skill5',1.5,FALSE,FALSE,FALSE,0
