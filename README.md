@@ -12,3 +12,5 @@
   <li>Foliage를 사용해서 Landscape 생성으로 나만의 <a href="https://www.youtube.com/watch?v=Nu4VMNb93Hc&list=PLNTm9yU0zou7kKcN7091Rdr322Qge5LNA">오픈 월드</a> 맵 만들기</li>
   <li>시네마틱 재생으로 보스 입장씬 제작과 Behavior Tree를 사용한 Enemy 구현</li>
 </ul>
+
+영상 링크 : https://www.youtube.com/watch?v=e8AQjzEzYQI&list=PLvOiSfwLo0XckG4_6U5fJ6U9GXhRdFsKP&index=21
